@@ -1,16 +1,16 @@
 {
-    "version": "0.21.6",
+    "version": "0.21.8",
     "description": "A fast, feature-rich system information fetcher written in Rust",
     "homepage": "https://github.com/l1a/retch",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/l1a/retch/releases/download/v0.21.6/retch-windows-x86_64.exe#/retch.exe",
-            "hash": "c3f1489a3e5b546d945073edf9ab12b4ad2efb33eaba2e2a2c751a1568d72960"
+            "url": "https://github.com/l1a/retch/releases/download/v0.21.8/retch-windows-x86_64.exe#/retch.exe",
+            "hash": "c5009cbfeac930cee24a4084cb03b8ff2621752e51ee73930147c11f47ab8b3b"
         },
         "arm64": {
-            "url": "https://github.com/l1a/retch/releases/download/v0.21.6/retch-windows-arm64.exe#/retch.exe",
-            "hash": "df7e1794d84305ec9208686a9bf3e29ba686ccc51cd566e2ecc91fa04ce651ad"
+            "url": "https://github.com/l1a/retch/releases/download/v0.21.8/retch-windows-arm64.exe#/retch.exe",
+            "hash": "ee13c6e9c0a14a4307ca0f4ea08fbf89e50d56fada7a3288cc9b33931cac535a"
         }
     },
     "bin": "retch.exe",
